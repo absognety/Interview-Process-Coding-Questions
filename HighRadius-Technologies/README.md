@@ -8,5 +8,5 @@
 + Regularization - (LASSO or Ridge Regression) (L1 and L2 regularization).  
 + K-Fold cross validation with variable K.  
 + Resampling of Train and Test splits of a datasets, sometimes involve out-of-time validation dataset.  
-+ Dimensionality Reduction in case many features.  
++ Dimensionality Reduction in case of many features in a dataset.  
 + Ensemble Learning.  
