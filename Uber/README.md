@@ -63,3 +63,15 @@ final_data = pd.DataFrame({"Week":weeks_var,"Retention":retentions},
 #final_data is ready - we can do line charts, trend charts etc in it.
 
 ```
+
+## Logical Question:  
+2. What are the 3 important metrics that you consider to be important to evaluate people who are reporting to you and why?  
+   + Correctness of Solution Deivered'
+   + Quality of Solution Delivered
+   + Adaptability of Solutions Delivered.  
+You can form your own answers here.  
+
+
+## Process Flow Question:   
+
+
