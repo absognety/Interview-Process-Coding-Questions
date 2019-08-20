@@ -65,6 +65,7 @@ final_data = pd.DataFrame({"Week":weeks_var,"Retention":retentions},
 ```
 
 ## Logical Question:  
+  
 2. What are the 3 important metrics that you consider to be important to evaluate people who are reporting to you and why?  
    + Correctness of Solution Deivered'
    + Quality of Solution Delivered
@@ -72,6 +73,13 @@ final_data = pd.DataFrame({"Week":weeks_var,"Retention":retentions},
 You can form your own answers here.  
 
 
-## Process Flow Question:   
+## Process Flow Question:  
+  
+3. What are the steps involved in the process doing the FTP for file of any format and putting it in hive location.  
+Step-1: Check the location and access  
+Step-2: Check the format of file as hive only supports csv/delimited files.  
+Step-3: if it is not csv or delimited then try to convert it into structured data set.  
+Step-4: Transfer the file using scp protocol binding in python (pysftp) or linux shell.  
+Step-5: Once the file is in respective folder, create a hive table with location inserted in table definition with csv serializer.  
 
 
