@@ -1,8 +1,6 @@
 ## Questions on SQL:  
 
-1. Let's say there is a table called Completed_Trips. The fields presentin the table are `rider_id`,`trip_id` and `trip_date`.
-Assume there are `X` riders in week 1 and Y riders in immediate following week 2. Retention is defined as ratio of common riders
-between `X` and `Y` who took atleast 1 trip and number of riders in week 1 who took atleast 1 trip i.e `X`
+1. Let's say there is a table called Completed_Trips. The fields present in the table are `rider_id`,`trip_id` and `trip_date`.Assume there are `X` riders in week 1 and Y riders in immediate following week 2. Retention is defined as ratio of common riders between `X` and `Y` who took atleast 1 trip and number of riders in week 1 who took atleast 1 trip i.e `X`
 
 **Output:** Plot the retentions for last n weeks -> n is an input here.  
 **Solution:**  
