@@ -62,7 +62,7 @@ final_data = pd.DataFrame({"Week":weeks_var,"Retention":retentions},
 
 ```
 
-## Logical Question:  
+## Logical Question (Managerial):  
   
 2. What are the 3 important metrics that you consider to be important to evaluate people who are reporting to you and why?  
    + Correctness of Solution Deivered'
@@ -71,7 +71,7 @@ final_data = pd.DataFrame({"Week":weeks_var,"Retention":retentions},
 You can form your own answers here.  
 
 
-## Process Flow Question:  
+## Process Flow Question (Architecture):  
   
 3. What are the steps involved in the process doing the FTP for file of any format and putting it in hive location.  
    + Step-1: Check the location and access  
