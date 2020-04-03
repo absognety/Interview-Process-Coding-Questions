@@ -5,6 +5,6 @@
 + Statistics and questions on Data science for Data scientist interviews.  
 + Along with coding questions, interview procedures experienced are also included here.  
 + Please note that some of these questions are from my own experiences with various companies.  
-+ **This repository points to [DSAGeeksClasses](https://github.com/absognety/DSA-GeeksClasses) and [CodingQuestions](https://github.com/absognety/AlgorithmicQuestions).  
++ **This repository points to [DSAGeeksClasses](https://github.com/absognety/DSA-GeeksClasses) and [CodingQuestions](https://github.com/absognety/AlgorithmicQuestions).**  
   
 Feel free to contribute to this repo and make this one of the best open source resources for interview preparations!!!!
