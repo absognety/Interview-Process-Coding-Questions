@@ -1,4 +1,6 @@
 """
+Coding Test - Round 1
+
 Given N street lights, and an array of tuples which signify the start and 
 end distances of street covered by that street light.
 

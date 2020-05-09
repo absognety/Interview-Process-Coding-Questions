@@ -1,4 +1,6 @@
 """
+Coding Test - Round 1
+
 Given an array of N integers (negative integers allowed) which say likings of
 N foods by a customer
 
