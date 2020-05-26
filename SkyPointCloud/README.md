@@ -6,3 +6,4 @@
      - What is the difference between Spark coalesce and repartition?  
      - How do you handle out of memory error in spark application execution?  
      - How does pyspark work?  
+     - Can you explain how you solved the programming question you have solved in the test?
