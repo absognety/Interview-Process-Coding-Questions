@@ -1,4 +1,4 @@
-# Interview process for skypoint cloud:  
+# Interview process for skypoint cloud (Data engineer):  
 1. **Hackerearth Test**: objective questions on hadoop, spark, python and airflow basics and one coding question added above.  
 2. **First round of Interview**:  
    - Questions:  
