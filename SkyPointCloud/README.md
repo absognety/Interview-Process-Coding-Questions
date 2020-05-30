@@ -3,7 +3,7 @@
 2. **First round of Interview**:  
    - Questions:  
      - what is the difference between mapreduce and spark?  
-     - What is the difference between Spark coalesce and repartition?  
+     - What is the difference between Spark `coalesce` and `repartition`?  
      - How do you handle out of memory error in spark application execution?  
      - How does pyspark work?  
      - Can you explain how you solved the programming question you have solved in the test? (refer [here](https://github.com/absognety/Interview-Process-Coding-Questions/blob/master/SkyPointCloud/modifyString.py))  
@@ -16,4 +16,4 @@
      - Tell me one approach on finding all prime numbers in the given range?  
      - Can you code up a binary search algorithm in array that is sorted in descending order? (refer [here](https://github.com/absognety/Interview-Process-Coding-Questions/blob/master/SkyPointCloud/binarySearch.py))  
      - How do you define/create a class in python?  
-4. **Final round of interview with Founder/CEO**.       
+4. **Final round of interview with Founder/CEO**.  
