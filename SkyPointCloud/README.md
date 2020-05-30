@@ -16,3 +16,4 @@
      - Tell me one approach on finding all prime numbers in the given range?  
      - Can you code up a binary search algorithm in array that is sorted in descending order? (refer [here](https://github.com/absognety/Interview-Process-Coding-Questions/blob/master/SkyPointCloud/binarySearch.py))  
      - How do you define/create a class in python?  
+4. **Final round of interview with Founder/CEO**.       
