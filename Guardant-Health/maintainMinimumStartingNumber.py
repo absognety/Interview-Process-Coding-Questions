@@ -22,3 +22,19 @@ Example:
         2 + 1  3
         so it's 5 
 """
+
+def minStartNumber(arr):
+    bounds = []
+    total = 1
+    for el in arr:
+        total += (-1 * el)
+        bounds.append(total)
+    return max(bounds)
+
+
+if __name__ == '__main__':
+    arr1 = [3,-6,5,-2,1]
+    print (minStartNumber(arr1))
+    
+    arr2 = [-4,3,-2,1]
+    print (minStartNumber(arr2))
