@@ -1,4 +1,6 @@
 """
+Coding Test - Hackerrank
+
 what is the minimum starting number to maintain such that the running sum will
 always be atleast 1
 
