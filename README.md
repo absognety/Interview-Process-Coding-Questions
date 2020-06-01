@@ -1,4 +1,4 @@
-# Questions From Interviews and Coding Tests:  
+# Programming questions/Case studies/Theoretical questions/Design questions etc From Interviews and Coding Tests:  
   
 + Interview Coding Questions for Several Companies encapsulated into one Repository.  
 + Coding questions asked in private hiring processes.  
