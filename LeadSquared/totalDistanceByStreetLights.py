@@ -44,3 +44,7 @@ if __name__ == '__main__':
     print (total_distance(arr1))
     arr2 = [(5,10),(8,12)]
     print (total_distance(arr2))
+    
+    #subset testcase
+    arr3 = [(2,9),(3,6)]
+    print (total_distance(arr3))
