@@ -10,7 +10,7 @@ Case study: Dataset is as below:
 | 1001   |           |                       |                   |               |                                 |
 | 1003   |           |                       |                   |               |                                 |  
 
-Given only sample size of 10 of above schema (with target variable assigned), training dataset size is 100, how would you avoid the effort of manual tagging  of target variable to training data?  
+Given only sample size of 10 of above schema (with target variable assigned), training dataset(without target_variable assigned) size is 100, how would you avoid the effort of manual tagging  of target variable to training data?  
 #### Follow up questions:  
 + How would you select the variables?
 + How would u use the opentext column `item_description`?
