@@ -1,4 +1,4 @@
-# Coding questions on DoSelect Platform (Personal Experience) (Data Science roles) (4 Coding questions are added here)  
+# Coding questions on DoSelect Platform (Personal Experience) (Data Science roles - ML Engineering) (4 Coding questions are added here)  
 +  This process is different from Data analyst process.  
   
 # Interview Process for Data Analyst position:  
