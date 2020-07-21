@@ -6,7 +6,7 @@ Case study: Dataset is as below:
   
 | itemId | item_name | item_description      | manufacturer_name | supplier_name | target_variable(home/workplace) |
 |--------|-----------|-----------------------|-------------------|---------------|---------------------------------|
-| 1000   | monitor   | ram: 32gb,2.8 GHZ,HDD | HP                | senty pvt ltd | workstation                     |
+| 1000   | monitor   | ram: 32gb,2.8 GHZ,HDD | HP                | senty pvt ltd | workplace                       |
 | 1001   |           |                       |                   |               |                                 |
 | 1003   |           |                       |                   |               |                                 |  
 
