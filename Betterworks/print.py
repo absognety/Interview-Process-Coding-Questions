@@ -19,8 +19,8 @@ mydict = {'one':1,
 def doop(mydict):
     if len(mydict) == 0:
         return "no data"
+    res = {}
     for k,v in mydict.items():
-        res = {}
         leng = len(k)
         if leng%2 != 0:
             res.update({k[(leng-1)//2]:v})
