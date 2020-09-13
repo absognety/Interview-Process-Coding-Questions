@@ -15,6 +15,6 @@
 ## Fourth round:  
 + Questions on pandas data analysis techniques  groupby, aggregations, distributions, visualizing the bar charts, boxplots.  
 + SQL - primary keys, foreign keys, composite keys, Indexes, star and snowflake schemas.  
-+ Write an algorithm that does the following, Given a array of integers and element x - find all the elements of array that are closer to given number x (Numbers having minimum difference with x).  
++ Write an algorithm that does the following, Given a array of integers and element x - find all the elements of array that are closer to given number x (Numbers having minimum difference with x)(questions on time complexity, scope for optimization,efficiency).  
 + Questions on Github, process of deployment and development you follow in your regular projects at work with github. when would you use git squash, git merge, git rebase etc.  
 + Questions on REST API, design techniques etc.  
