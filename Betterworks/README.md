@@ -1,7 +1,7 @@
 # Hiring process for Betterworks Software Engineer Role (Personal Experience):  
   
 ## First round:  
-+ Discussion from Director of Engineering/Lead Engineer on your work experience, Job description, you expertise on skills required for the role, understand your skillset etc.  
++ Discussion from Director of Engineering/Lead Engineer on your work experience, Job description, you expertise on skills required for the role, understand your skillset, projects that you have worked in and have been working on at the moment - critical challenges faced and how you have overcome them etc.  
   
 ## Second round:  
 + Technical screening on basic coding questions.  
