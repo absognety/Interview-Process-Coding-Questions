@@ -8,4 +8,4 @@
   - It can also send you DoSelect link where there are two questions, one question to be solved using pandas for simple data manipulation and other is you have to write a sql query (Given different tables by showing relationships between all tables like an ER diagram with indications of primary and foreign keys)  
   
 ## Second round - Business Case study from the founder of Brightmoney.co:  
-+ Given a case study around credit cards and checking accounts with financial lingo, build your hypothesis and present a solution as to why you think your approach is accurate compared to other possible approaches? What are the different problems with your approach? What can be challenges with the data you are taking? etc  
++ Given a case study around credit cards and checking accounts with financial lingo, build your hypothesis and present a solution as to why you think your approach is accurate compared to other possible approaches? What are the different problems with your approach? What can be challenges with the data you are taking? etc (Deleted the case study ppt to avoid DMCA notices).  
