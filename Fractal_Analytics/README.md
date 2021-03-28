@@ -8,3 +8,7 @@
 ### First round:  
 + DoSelect Test (Python + SQL) or (R + SQL) test (4 python/R + 4 sql questions) (Python questions are not coding questions but
 questions on pandas and numpy coding).  
+  
+# Interview Process for Senior Big Data Engineer - 2021:  
+### First round:  
++ DoSelect Test (Coding Test).  
