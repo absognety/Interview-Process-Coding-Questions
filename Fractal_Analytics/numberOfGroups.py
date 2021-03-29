@@ -20,3 +20,24 @@ example:
     so will be in the same group where as the third one repels
     second one so will be in different group
 """
+
+
+def numGroups(poles):
+    groups = [poles[0]]
+    for i in range(1,len(poles)):
+        if poles[i][0] == groups[-1][0]:
+            groups.append(poles[i])
+        else:
+            groups.append(' ')
+            groups.append(poles[i])
+    concat_groups = ''.join(groups)
+    print (concat_groups)
+    return len(concat_groups.split(' '))
+    
+if __name__ == '__main__':
+    n = int(input())
+    poles = []
+    for tc in range(n):
+        pole = input()
+        poles.append(pole)
+    print (numGroups(poles))
