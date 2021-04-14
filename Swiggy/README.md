@@ -15,3 +15,7 @@
 - Detect a cycle in the linkedlist if present.
 - Doubly linkedlists and cyclic linkedlists - Questions only (No need to implement).  
 - Questions on Internals of Spark and performance related questions.  
+
+## LLD (Low Level Design Round):  
+- Given a scenario of ATC (Air Traffic Controller) and flights, Questions on interactions between flight pilot and ATC if ATC needs to replaced with a automated system (Answer expected interms of API lingo) - payload, messages exchange, queues, parameters - etc.  
+- Design a low level ATC system that manages the flight traffic, departures and arrivals within 50 kms of radius.  
