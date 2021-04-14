@@ -9,3 +9,9 @@
 - How does the parallelism happen in Python? Methods to deal with and questions on relevant libraries?  
 
 ## Second Round (DSA):  
+- Code up a linkedlist with all necessary operations from scratch!  
+- Questions on developed linkedlist code, execution and manipulations to the code for some questions.  
+- Find the middle element of the linkedlist.  
+- Detect a cycle in the linkedlist if present.
+- Doubly linkedlists and cyclic linkedlists - Questions only (No need to implement).  
+- Questions on Internals of Spark and performance related questions.  
