@@ -9,5 +9,5 @@
 + Write spark skeleton code for given scenario - reading a CSV and do some transformations on it - Code doesn't have to be exact but steps matter.  
 + Given a requirement, what are the steps to achieve it using only spark-sql without dataframes/RDDs API in spark?
 + Questions on SQL for window functions in spark (SQL query is preferred compared to Dataframes API).  
-+ Different storage formats in big data space? questions on that (parquet, CSV, JSON, avro, delta etc).  
++ Different storage formats in big data space? questions on that (`parquet`, `CSV`, `JSON`, `avro`, `delta` etc).  
 + Questions on Hadoop ecosystem if any.  
