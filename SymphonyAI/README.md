@@ -14,5 +14,5 @@ ________________________________________________________________________________
 + Model evaluation and selection techniques and questions on that involving confusion matrix etc.  
 + Model overfitting and Underfitting - How do you know?  
 + Questions on NLP project that you did.  
-+ Programming question based on sorting without using any libraries or built-in functions.  
++ Programming question based on sorting (sorting strings in lexographical order) without using any libraries or built-in functions.  
 + `inplace` and `axis` arguments in pandas apis.  
