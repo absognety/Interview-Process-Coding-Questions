@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 ### Second Round:  
 + Random forest vs XGBoost
-+ Questions on decision tree internals.  
++ Questions on decision tree internals and how does it work end-end?  
 + Model evaluation and selection techniques and questions on that involving confusion matrix etc.  
 + Model overfitting and Underfitting - How do you know?  
 + Questions on NLP project that you did.  
