@@ -7,7 +7,7 @@
 + mappers and reducers in Spark execution flow.  
 + what are `groupByKey` and `reduceByKey` operations in Spark.  
 + Write spark skeleton code for given scenario - reading a CSV and do some transformations on it - Code doesn't have to be exact but steps matter.  
-+ Given a requirement, what are the steps to achieve it using only spark-sql without dataframes/RDDs API in spark?
++ Given a requirement (find the second largest value of a column for every value of other column - Window functions in SQL), what are the steps to achieve it using only spark-sql without dataframes/RDDs API in spark?
 + Questions on SQL for window functions in spark (SQL query is preferred compared to Dataframes API).  
 + Different storage formats in big data space? questions on that (`parquet`, `CSV`, `JSON`, `avro`, `delta` etc).  
 + Questions on Hadoop ecosystem if any.  
