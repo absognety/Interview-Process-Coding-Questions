@@ -12,6 +12,7 @@ ________________________________________________________________________________
 + Random forest vs XGBoost
 + Questions on decision tree internals and how does it work end-end?  
 + Model evaluation and selection techniques and questions on that involving confusion matrix etc.  
++ Questions on K-Fold cross validation and other model validation strategies.  
 + Model overfitting and Underfitting - How do you know?  
 + Questions on NLP project that you did.  
 + Programming question based on sorting (sorting strings in lexographical order) without using any libraries or built-in functions.  
