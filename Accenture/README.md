@@ -1,4 +1,4 @@
-# Data Engineer - Round 1 (Skills Interview):  
+# Interview Process - Data Engineer - Round 1 (Skills Interview):  
 + Can a python class have 2 __init__ methods?  
 + Questions on class methods (staticmethods and classmethods).  
 + Difference between method and function?  
