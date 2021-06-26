@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.9
+# Asked in Thrasio Interview Process
 # Input:
     
 sales_data = [{'channel':'Amazon', 'id':'AMZ456', 'sales':10, 'returns':0},
