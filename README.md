@@ -10,5 +10,5 @@
 + Check out my effort in solving questions from daily coding problem (Daily coding quesitons sent to your email) at [Here](https://github.com/absognety/Competitive-Coding-Platforms/tree/master/DailyCodingProblem).  
   
 Feel free to contribute to this repo and make this one of the best open source resources for interview preparations!!!!  
-### This repository documents the interview process of latest up and coming companies which could lead to interview privacy concerns - I trust the user discretion for this.  
+### This repository might document the interview processes of latest up and coming companies which could lead to interview privacy concerns - I trust the user discretion for this.  
 Please note that the interview questions and process bound to change at any point of time - but If this repository helped you, Please give a star.  
