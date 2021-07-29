@@ -11,3 +11,6 @@
 ### Third Round - Managerial:  
 + Questions on your technical experience and projects you have done.  
 + Challenges in the projects, how are scaling issues resolved, Team work, Milestones achieved etc.  
++ Questions on Deployment process followed and tools used for deploying codebase - devops architecture, CI/CD, Docker, Kubernetes, Service mesh and containerization etc
+
+### Fourth Round - HR round
