@@ -13,4 +13,8 @@
 + Challenges in the projects, how are scaling issues resolved, Team work, Milestones achieved etc.  
 + Questions on Deployment process followed and tools used for deploying codebase - devops architecture, CI/CD, Docker, Kubernetes, Service mesh and containerization etc
 
-### Fourth Round - HR round
+### Fourth Round - HR round:  
++ Questions are similar to questions from any other HR round.  
++ what are you looking for? what are your career aspirations?  
++ what are your interests and why are you interested in athenahealth?
++ Any other doubts and clarifications on the role, Planning connects with Hiring manager etc.
