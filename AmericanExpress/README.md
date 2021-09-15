@@ -1,5 +1,5 @@
 # Interview Process for Engineer - II (2021) (Personal):  
-### First Round - Coding Round:  
+### First Round - Coding Round: Online Coding Round with time management.  
 ### Second Round - Design:  
 + Design an Application that serves machine learning model results in real-time (Design a feedback ingestion system and notifications pusher) - Brush upon 
 system design concepts, NoSQL Databases, caching, load balancer frameworks, distributed computing fundamentals, APIs, software design patterns.  
