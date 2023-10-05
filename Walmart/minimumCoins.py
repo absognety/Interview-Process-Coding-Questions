@@ -9,3 +9,22 @@
 
 # Input: coins[] = {9, 6, 5, 1}, V = 11
 # Output: Minimum 2 coins required We can use one coin of 6 cents and 1 coin of 5 cents
+
+from typing import List
+import itertools
+def minCoins(coins:List[int],value:int) -> int:
+    maxlength = len(coins)
+    for l in range(1,maxlength,1):
+        combinations = list(itertools.combinations(coins,l))
+        for c in combinations:
+            if sum(c)==value:
+                return f"Minimum {l} coins required, we can use coins of {(','.join([str(i) for i in c]))} cents"
+            else:
+                continue
+    return -1
+
+
+if __name__ == '__main__':
+    coins = list(map(int,input().strip().split(' ')))
+    value = int(input())
+    print (minCoins(coins,value))
