@@ -1,8 +1,9 @@
-# Given a value V, if we want to make a change for V cents, and we have an infinite supply of 
+# Given a value V, if we want to make a change for V cents, and we have a finite supply of 
 # each of C = { C1, C2, .., Cm} valued coins, what is the minimum number of coins to make the change? 
 # If it’s not possible to make a change, print -1.
 
 # Examples:  
+# finite supply is just coin values provided in the list, cannot use more than those
 
 # Input: coins[] = {25, 10, 5}, V = 30
 # Output: Minimum 2 coins required We can use one coin of 25 cents and one of 5 cents 
