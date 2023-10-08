@@ -13,6 +13,8 @@
 from typing import List
 import itertools
 def minCoins(coins:List[int],value:int) -> int:
+    if value == 0:
+        return 0
     maxlength = len(coins)
     for l in range(1,maxlength,1):
         combinations = list(itertools.combinations(coins,l))
