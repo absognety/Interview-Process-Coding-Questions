@@ -20,7 +20,6 @@ def group_anagrams(words:List[str]) -> List[List[str]]:
             groups.append(tuple(set(collect_groups)))
         else:
             groups.append((words[i],))
-    print (groups)
     result = []
     for i in range(len(groups)):
         checker = []
