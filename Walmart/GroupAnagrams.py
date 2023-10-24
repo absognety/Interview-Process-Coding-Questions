@@ -7,8 +7,8 @@
 # Output = [[“mat”, “tam”],[“cute”],[“beat”,”eatb”,”teab”,”ateb”]]
 
 # Without using Advanced Data structures and libraries
-from typing import List
-def group_anagrams(words:List[str]) -> List[List[str]]:
+from typing import List,Tuple
+def group_anagrams(words:List[str]) -> List[Tuple[str]]:
     groups = []
     for i in range(len(words)):
         collect_groups=[]
