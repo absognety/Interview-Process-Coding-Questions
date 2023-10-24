@@ -3,6 +3,9 @@
 # Find the words from the given list and group them with the words which are 
 # formed by different arrangements of the same letters(anagram)
 
+# Input = ['mat','tam','cute','beat','eatb','teab','ateb']
+# Output = [[“mat”, “tam”],[“cute”],[“beat”,”eatb”,”teab”,”ateb”]]
+
 # Without using Advanced Data structures and libraries
 from typing import List
 def group_anagrams(words:List[str]) -> List[List[str]]:
@@ -36,6 +39,5 @@ def group_anagrams(words:List[str]) -> List[List[str]]:
     return result
 
 if __name__ == '__main__':
-    # words = ['mat','tam','cute','beat','eatb','teab','ateb']
     words = list(input().strip().split(","))
     print (group_anagrams(words=words))
