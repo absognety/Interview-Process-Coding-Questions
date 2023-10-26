@@ -6,8 +6,11 @@
 # Input = ['mat','tam','cute','beat','eatb','teab','ateb']
 # Output = [[“mat”, “tam”],[“cute”],[“beat”,”eatb”,”teab”,”ateb”]]
 
+# Input = ['lump', 'eat',  'me',  'tea', 'em', 'plum']
+
 # Without using Advanced Data structures and libraries
 from typing import List,Tuple
+from collections import defaultdict
 def group_anagrams(words:List[str]) -> List[Tuple[str]]:
     groups = []
     for i in range(len(words)):
@@ -38,6 +41,16 @@ def group_anagrams(words:List[str]) -> List[Tuple[str]]:
             result.append(groups[i])
     return result
 
+def group_anagrams_1(words:List[str]) -> List[Tuple[str]]:
+    temp = defaultdict(list)
+    for ele in words:
+        temp[str(sorted(ele))].append(ele)
+    print (temp)
+    return list(temp.values())
+
 if __name__ == '__main__':
-    words = list(input().strip().split(","))
-    print (group_anagrams(words=words))
+    # words = list(input().strip().split(","))
+    # print (group_anagrams(words=words))
+    print (group_anagrams_1(words=['lump', 'eat',  'me',  'tea', 'em', 'plum']))
+    print (group_anagrams(words=['mat','tam','cute','beat','eatb','teab','ateb']))
+    print (group_anagrams_1(words=['mat','tam','cute','beat','eatb','teab','ateb']))
