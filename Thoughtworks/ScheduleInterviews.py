@@ -29,10 +29,10 @@ def scheduleInterviews(attendees:dict,
                        interviewers:dict,
                        rooms:dict,
                        slots:List[Tuple]) -> List[Tuple]:
-    available_attendees = attendees_dict.get("entity").copy()
-    available_interviewers = interviewers_dict.get("entity").copy()
-    available_rooms = rooms_dict.get("entity").copy()
-    available_slots = refined_slots[::-1].copy()
+    available_attendees = attendees.get("entity").copy()
+    available_interviewers = interviewers.get("entity").copy()
+    available_rooms = rooms.get("entity").copy()
+    available_slots = slots[::-1].copy()
     attendees_done_with_interview = set()
     interviews_scheduled = list()
     while len(available_slots) > 0:
@@ -49,9 +49,9 @@ def scheduleInterviews(attendees:dict,
              available_rooms.pop()
              available_interviewers.pop()
         available_slots.pop()
-        available_interviewers = interviewers_dict.get("entity").copy()
-        available_rooms = rooms_dict.get("entity").copy()
-        available_attendees = list(set(attendees_dict.get("entity").copy()) - attendees_done_with_interview)
+        available_interviewers = interviewers.get("entity").copy()
+        available_rooms = rooms.get("entity").copy()
+        available_attendees = list(set(attendees.get("entity").copy()) - attendees_done_with_interview)
     return interviews_scheduled
 
 
