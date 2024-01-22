@@ -5,7 +5,7 @@
 + Statistics and questions on Data science for Data scientist interviews.  
 + Along with coding questions, interview procedures experienced are also included here.  
 + Please note that some of these questions are from my own experiences with various companies (check README for that information), please create an issue if you have any questions regarding any company and its questions.  
-+ **I update this repo with additions as I go through the process of hiring (You can imagine this as kind of a blog), so sometimes even if I didn't make it till the end of the whole process you can expect the questions till the point I was there, My intention is help the community of software developers.**  
++ **I update this repo with additions as I go through the process of hiring (You can imagine this as kind of a blog), so sometimes even if I didn't make it till the end of the whole process you can expect the questions till the point I was there, My intention is to help the community of software developers.**  
 + **This repository and [Coding Questions](https://github.com/absognety/Competitive-Coding-Platforms) can have few common questions**  
 + Check out my effort in solving questions from daily coding problem (Daily coding quesitons sent to your email) at [Here](https://github.com/absognety/Competitive-Coding-Platforms/tree/master/DailyCodingProblem).  
   
