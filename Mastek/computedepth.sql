@@ -1,6 +1,6 @@
 -- Oracle solution
 
-WITH cte (lvl, ManagerID, EmployeeID) AS (
+WITH RecursiveCTE (lvl, ManagerID, EmployeeID) AS (
    SELECT 1 AS lvl, ManagerID, EmployeeID
    FROM employees
    WHERE ManagerID IS NULL
