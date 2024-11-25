@@ -1,6 +1,6 @@
--- MySQL solution
+-- Oracle solution
 
-WITH RECURSIVE cte AS (
+WITH cte (lvl, ManagerID, EmployeeID) AS (
    SELECT 1 AS lvl, ManagerID, EmployeeID
    FROM employees
    WHERE ManagerID IS NULL
