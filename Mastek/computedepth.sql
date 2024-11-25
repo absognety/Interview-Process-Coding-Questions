@@ -7,7 +7,7 @@ WITH RecursiveCTE (lvl, ManagerID, EmployeeID) AS (
    UNION ALL
    SELECT lvl + 1, employees.ManagerID, employees.EmployeeID
    FROM employees
-   JOIN cte
-     ON employees.ManagerID = cte.EmployeeID
+   JOIN RecursiveCTE
+     ON employees.ManagerID = RecursiveCTE.EmployeeID
 )
 SELECT * FROM RecursiveCTE;
