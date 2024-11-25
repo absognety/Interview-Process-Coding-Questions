@@ -10,5 +10,4 @@ WITH RecursiveCTE (lvl, ManagerID, EmployeeID) AS (
    JOIN cte
      ON employees.ManagerID = cte.EmployeeID
 )
-SELECT *
-FROM cte;
+SELECT * FROM RecursiveCTE;
